@@ -1,0 +1,17 @@
+header {
+  color: #E1624F;
+}
+
+img{
+  border-radius: 28px;
+}
+
+p {
+  font-size: 16px;
+}
+
+.title-page p{
+  color: #333333;
+  font-size: 16px;
+  font-style: italic;
+}
