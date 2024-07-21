@@ -55,6 +55,24 @@ header {
   text-align: center;
 }
 
+#couple {
+  color: #591B98;
+  font-weight: bold;
+}
+#money {
+  color: #E95E10;
+  font-weight: bold;
+}
+#history{
+  color: #0C51A7;
+  font-weight: bold;
+}
+#family{
+  color: #E5245E;
+  font-weight: bold;
+}
+
+
 hr {
   margin-bottom: 64px;
   opacity: 30%;
