@@ -6,7 +6,7 @@
 
 html{
   width: 1120px;
-  margin: 50px 200px;
+  margin-inline: auto;
 }
 
 h1{
@@ -35,7 +35,8 @@ header {
 }
 
 #container{
-  width: 100%;
+  width: 1120px;
+  margin-inline: auto;
 }
 #content-list img {
   margin-bottom: 20px;
